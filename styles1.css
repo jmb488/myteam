@@ -1,0 +1,29 @@
+div.jumbotron{
+    background-image: url(home.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height:500px;
+}
+
+h1{
+    
+    font-family: 'Viga', sans-serif;
+    font-size:75px;
+    color:orange;
+    font-weight: bolder;
+
+
+}
+
+.navbar-light .navbar-brand{
+    color:darkblue;
+    
+}
+
+h3{
+    color:darkblue;
+}
+
+
